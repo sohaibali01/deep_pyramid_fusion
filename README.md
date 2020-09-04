@@ -6,7 +6,7 @@ code for our paper "Learning deep pyramid based representations for parsharpenin
 
 (8-band pansharpening)...
 
-- The training and testing imaages a available from this link. 
+- The training and testing imaages a available from this link (https://drive.google.com/file/d/1HLDkoim6rRpqiR9DvBKUZPbF-f_qGcJC/view?usp=sharing) 
 
 - Test using pre-trained model:
 

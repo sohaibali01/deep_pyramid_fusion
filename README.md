@@ -2,6 +2,8 @@
 
 code for our paper "Learning deep pyramid based representations for parsharpening" submitted at IEEE TIP
 
+Paper link: https://arxiv.org/pdf/2102.08423.pdf
+
 - All dependencies are mentioned in requirements.txt. Run "pip install -r requirements.txt" in terminal to install all packages in a single go.
 
 (8-band pansharpening)...
@@ -20,4 +22,3 @@ Run testing_final.py and adjust the paths accordingly. Currently first four band
 
 
 
-Paper link: https://arxiv.org/pdf/2102.08423.pdf

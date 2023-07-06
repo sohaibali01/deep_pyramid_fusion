@@ -5,8 +5,10 @@ code for our paper "Learning deep pyramid based representations for parsharpenin
 Paper link: https://arxiv.org/pdf/2102.08423.pdf
 
 If you're using the code, then cite our papers,
-*1) Adeel H, Tahir J, Riaz MM, Ali SS. Siamese Networks Based Deep Fusion Framework for Multi-Source Satellite Imagery. IEEE Access. 2022 Jan 18;10:8728-37.
-*2) Adeel H, Ali SS, Riaz MM, Kirmani SA, Qureshi MI, Imtiaz J. Learning Deep Pyramid-based Representations for Pansharpening. Arabian Journal for Science and Engineering. 2022 Aug;47(8):10655-66
+
+1) Adeel H, Tahir J, Riaz MM, Ali SS. Siamese Networks Based Deep Fusion Framework for Multi-Source Satellite Imagery. IEEE Access. 2022 Jan 18;10:8728-37.
+
+2) Adeel H, Ali SS, Riaz MM, Kirmani SA, Qureshi MI, Imtiaz J. Learning Deep Pyramid-based Representations for Pansharpening. Arabian Journal for Science and Engineering. 2022 Aug;47(8):10655-66
 
 - All dependencies are mentioned in requirements.txt. Run "pip install -r requirements.txt" in terminal to install all packages in a single go.
 

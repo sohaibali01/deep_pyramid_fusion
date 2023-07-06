@@ -8,7 +8,7 @@ Paper link: https://arxiv.org/pdf/2102.08423.pdf
 
 (8-band pansharpening)...
 
-- The training and testing images are available from this link (https://drive.google.com/file/d/1HLDkoim6rRpqiR9DvBKUZPbF-f_qGcJC/view?usp=sharing) 
+- The training and testing images are available from this link (https://drive.google.com/drive/folders/1ODckCjcO44xBfyUHuamRW94BzKy6AEnp?usp=drive_link)
 
 - Test using pre-trained model:
 
